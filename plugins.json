@@ -2797,7 +2797,7 @@
       "description": "Define custom events in plain language, check them with lightweight probes, and resume your Codex conversation when they fire.",
       "category": "Tools & Integrations",
       "source": "awesome-codex-plugins",
-      "install_url": "https://raw.githubusercontent.com/hyprh/self-starter/HEAD/plugin/.codex-plugin/plugin.json"
+      "install_url": "https://raw.githubusercontent.com/hyprh/self-starter/HEAD/codex-plugin/.codex-plugin/plugin.json"
     },
     {
       "name": "SEO Dungeon",
